@@ -1,0 +1,11 @@
+c:\users\drleavsy\documents\visual studio 2015\Projects\HW\HW\bin\Debug\HW.exe.config
+c:\users\drleavsy\documents\visual studio 2015\Projects\HW\HW\bin\Debug\HW.exe
+c:\users\drleavsy\documents\visual studio 2015\Projects\HW\HW\bin\Debug\HW.pdb
+c:\users\drleavsy\documents\visual studio 2015\Projects\HW\HW\obj\Debug\HW3.csprojResolveAssemblyReference.cache
+c:\users\drleavsy\documents\visual studio 2015\Projects\HW\HW\obj\Debug\HW.exe
+c:\users\drleavsy\documents\visual studio 2015\Projects\HW\HW\obj\Debug\HW.pdb
+C:\Users\drleavsy\Documents\Visual Studio 2015\Projects\HW3\HW\bin\Debug\HW.exe.config
+C:\Users\drleavsy\Documents\Visual Studio 2015\Projects\HW3\HW\obj\Debug\HW.exe
+C:\Users\drleavsy\Documents\Visual Studio 2015\Projects\HW3\HW\obj\Debug\HW.pdb
+C:\Users\drleavsy\Documents\Visual Studio 2015\Projects\HW3\HW\bin\Debug\HW.exe
+C:\Users\drleavsy\Documents\Visual Studio 2015\Projects\HW3\HW\bin\Debug\HW.pdb
